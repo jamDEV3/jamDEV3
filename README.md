@@ -1,6 +1,6 @@
 Hi, I’m Jamie. I am an aspiring software developer with experience collaborating with others on development projects.
 - I use HTML, CSS, Python and C#
-- I am learning more about Javascript and PHP currently
+- I am currently learning more about Javascript, PHP and Bootstrap
 - Looking to collaborate! Any inquiries, contact me through my email: james-tyler82@outlook.com
 
 
