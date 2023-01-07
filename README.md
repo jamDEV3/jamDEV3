@@ -1,4 +1,4 @@
-Hi, I’m Jamie. I am an aspiring software developer with experience collaborating with others on development projects.
+Hi, I’m Jamie. I am an aspiring software developer with experience collaborating with others on coding projects.
 - I use HTML, CSS, Python and C#
 - I am currently learning Javascript and Unity
 - Looking to collaborate! Any inquiries, contact me through my email: james-tyler82@outlook.com
