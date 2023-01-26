@@ -1,6 +1,6 @@
 Hi, I’m Jamie. I am an aspiring software developer with experience collaborating with others on coding projects.
-- I use HTML, CSS and C#
-- I am currently learning Javascript, Cypress and Unity
+- I use HTML, CSS and JavaScript
+- I am currently learning Javascript, React and Unity
 - Looking to collaborate! Any inquiries, contact me through my email: james-tyler82@outlook.com
 
 
